@@ -1,3 +1,34 @@
+<<<<<<< HEAD
+=======
 body{
-    background: #BDBDBD;
+    background: black;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#bg-image {
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+        }
+>>>>>>> d15d31a695c4660e782407d355d511519313c3e2
